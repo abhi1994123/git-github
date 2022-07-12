@@ -1,3 +1,5 @@
 Hi, This is git.
 
-Adding a new line to make a change.
+Adding a new line to make a change
+
+Adding a new line in rebasebranch.
